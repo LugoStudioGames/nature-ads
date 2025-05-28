@@ -24,7 +24,7 @@
     "status": true,
     "tiktokappid":"xxxxxxxxx",
     "main_ads": "admob",
-    "backup_ads": "facebook",
+    "backup_ads": "admob",
     "ads_unit_id": {
       "admob": {
         "publisher_id": "ca-app-pub-3445525714585114~5631348001",
