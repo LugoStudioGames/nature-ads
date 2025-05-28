@@ -27,10 +27,10 @@
     "backup_ads": "facebook",
     "ads_unit_id": {
       "admob": {
-        "publisher_id": "pub-3940256099942544",
+        "publisher_id": "ca-app-pub-3445525714585114~5631348001",
         "app_open_id": "ca-app-pub-3940256099942544/9257395921",
-        "banner_id": "ca-app-pub-3940256099942544/9214589741",
-        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+        "banner_id": "ca-app-pub-3445525714585114/6891849975",
+        "interstitial_id": "ca-app-pub-3445525714585114/8373302665",
         "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
         "native_id": "ca-app-pub-3940256099942544/2247696110"
       },
